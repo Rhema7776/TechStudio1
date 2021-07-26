@@ -1,0 +1,98 @@
+.t1{
+    background-color: #121230;
+    }
+    
+    .t1a{ 
+        width: 410px;
+        height: 234px;
+        background-color:rgba(245, 245, 245, 0.918);
+        /* border: orange solid; */
+        color:black ;
+        float: left;
+        padding-left: 34px;
+        font-size: 13px;
+        /* margin-top: 10px; */
+        padding-top: 30px;
+        /* display: flex;
+        flex-direction: column-reverse; */
+    }
+    
+    .tt4{
+        /* float: left; */
+        margin-top: 187px;
+        margin-left: 120px;
+    }
+    
+    /* .x{
+        font-size: 3px;
+    } */
+    
+    .t1d{
+        width: 410px;
+        height: 234px;
+        border-color: indigo;
+        float: left;
+    }
+    
+    img{
+        float: left;
+        width: 410px;
+        height: 264px;
+        /* border-color: indigo; */
+    }
+    .t1b{
+        float: left;
+        font-size: 11px;
+        margin-left: 33px;
+    
+    }
+    
+    .OH{
+        background-color: rgba(240, 82, 25, 0.856);
+        color: whitesmoke;
+        width: 37Px;
+        height: 27px;
+        text-decoration: none;
+        border-radius: 35%;
+        /* float: right; */
+        margin-right: 11px;
+        /* margin-bottom: 25px; */
+        
+        /* float: inline-end; */
+    }
+    
+    .ea{
+         width: 400px;
+         /* float: inline-start; */
+         /* border-radius: 600px; */
+    }
+    /* .OH, .OI{
+        width: 24Px;
+        height: 24px;
+        text-decoration:none; */
+        /* width: 600px; */
+    }
+    .t1c{
+    
+        float: left;
+        font-size: 11px;
+    }
+    
+    #ins{
+        color: rgb(224, 22, 22);
+    }
+    
+    
+    .OH{
+    position: relative;
+    left: -4px;
+    
+    }
+   
+    .OI{ 
+        /* border-radius: 35%; */
+        width: 30px;
+    
+    
+    }
+    

@@ -1,0 +1,81 @@
+.body{
+
+    
+    background-color: rgb(9, 255, 0);
+    }
+
+    .ab1{
+        box-shadow: 4px 4px 4px 4px rgb(0, 0, 0, 0.6);
+        border: white solid;
+        background-color:white;
+        width: 350px;
+        height: 300px;
+       margin-top: 140px;
+        /* padding-left: 150px; */
+        /* padding-right: 30px; */
+        color: white;
+       /* float: left;} */
+        margin-left: 430px;
+        padding-top: 14px
+    ;}
+
+.abc{
+    margin-top: 38px;
+    width: 300px;
+    height: 35px;
+    margin-left: 15px;
+    margin-bottom: -30px
+}
+/* 
+.abd{
+    margin-top: 16px;
+    /* width: 300px; */
+    height: 40px
+
+}
+
+
+.abe{
+    /* margin-top: 16px;
+    width: 300px; */
+    /* height: 40px; */
+    background-color: #1de030;
+    /* margin-right: 50px; */
+
+} */
+
+.aaa{
+    border: white solid;
+   
+    width: 600px;
+    height: 320px;
+   /* margin-top: 30px; */
+    /* padding-left: 500px; */
+    /* padding-right: 30px; */
+    color: white;
+   /* float: left; */
+    /* margin-top: 16px; */
+    /* width: 300px;
+    height: 40px */
+    /* margin-right: 50px; */
+    box-shadow: 3px 2px 4px 3px #252222;
+}
+
+#id1{
+    background-color: rgb(17, 158, 17);
+    color: white;
+    /* background-size:500px ; */
+    /* height: 40px; */
+    border: none;
+}
+ 
+#id2{
+    margin-left: 30px;
+    position: absolute;
+    top: 342px;
+}
+
+#user{
+
+    background-color: rgb(161, 155, 142);
+}

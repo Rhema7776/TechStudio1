@@ -1,0 +1,70 @@
+.main{
+    display: flex;
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
+}
+
+
+
+
+/* .one, .ss, .two{
+     width: 20%;
+     height: 1000px;
+     
+}
+
+.one{ 
+    background-color: red;
+} */
+/* 
+.two{ 
+    background-color: saddlebrown;
+} */
+/* 
+.ss{
+    background-color: purple;
+}
+
+nav{
+    font-size: 20px;
+    background-color: black;
+    color: blanchedalmond;
+} */
+
+/* ul{
+    display: flex;
+    /* justify-content: center; */
+    /* justify-content: flex-end; */
+     /* justify-content: space-around; */
+      /* justify-content: space-between;
+}
+li{
+
+    list-style-type: none;
+    margin-right: 50px;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 3px;
+    flex-grow: 1;
+} */ */
+/* .l4{
+
+order: ;
+} */
+.l1{
+
+   flex-grow: 5;}
+.l2{
+    /* order: 2; */
+    flex-grow: 6;
+}
+
+.l3{
+    flex-grow: 2;
+    /* order: 2; */
+}
+
+.l4{
+    flex-grow: 1;
+    /* order: 2 */
+}

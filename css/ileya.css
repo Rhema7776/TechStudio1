@@ -1,0 +1,27 @@
+
+@media (max-width: 768px) {
+
+
+    body{
+        background-color: yellow;
+    }
+
+
+    .sec1 > div > img {
+        width: 20%;
+    }
+}
+
+
+@media (max-width: 425px) {
+
+    body{
+        background-color: red;
+    }
+
+
+    .sss{
+        background-color: purple;
+        padding: 50px;
+    }
+}

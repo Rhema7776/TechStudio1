@@ -1,0 +1,55 @@
+
+
+
+
+.ca1{
+    border: orange solid;
+    background-color: orange;
+    width: 259px;
+    height: 320px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+   float: left;}
+
+.bb{
+    border-radius: 100px;
+}
+
+.ca2{
+    border: rgb(68, 0, 255) solid;
+    background-color: rgb(132, 92, 205);
+    width: 259px;
+    height: 320px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    float: left;
+}
+
+.bc{
+    border-radius: 100px;
+}
+
+.ca3{
+    border: slategrey solid;
+    background-color: slategrey ;
+    width: 259px;
+    height: 320px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    float: left;
+}
+
+.bd{
+    border-radius: 100px;
+}
+
+
+.aa{
+
+
+    padding-left: 10%;
+    padding-top: 10%;
+}

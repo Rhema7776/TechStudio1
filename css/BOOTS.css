@@ -1,0 +1,37 @@
+/* .bg-dark{
+    color: white;
+} */
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    background-color: purple;
+    background-image: url(../css/images/IMG-20210708-WA0001.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.sec2{
+    background-color: brown;
+    color: white;
+    width: 20%;
+}
+
+img{
+    width: 550px;
+}
+
+.form-controltall1{
+width: 50px;
+}
+
+.mb-3{
+width: 500px;
+
+}
+
+.mb-3form-checkmedium{
+
+
+}

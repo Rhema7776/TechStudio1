@@ -1,0 +1,33 @@
+ body{
+     background-color: violet; 
+     background-image: url(../images/john.png);
+     background-size: contain;
+     /* background-size: 150px 100px; */
+     color: white;
+     /* background-repeat: no-repeat; */
+    }
+
+
+   P{
+     color: peru;
+     font-size: 20;
+     margin: 10%;
+     padding: 5%;
+     outline: 50px olive dotted;
+     border: 30px solid yellow;
+     background-color: white;
+    }
+
+   .two{
+
+    color: rgb(71, 104, 71);
+   }
+
+   #tall{
+       background-color: orange;
+   }
+
+   h1{ 
+       background-color: tomato;
+   }
+
